@@ -1,5 +1,5 @@
 # WYSA-assessment-test-challenge-1
-Backend Developer Mini Project
+FullStack Developer Mini Project
 Challenge 1
 Estimated time - 1.5 hours
 Primary focus - API and data design, prototyping skills
